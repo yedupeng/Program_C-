@@ -1,2 +1,2 @@
 # Program_C++
-The connotation is forward_list
+c++链表作业记录。
